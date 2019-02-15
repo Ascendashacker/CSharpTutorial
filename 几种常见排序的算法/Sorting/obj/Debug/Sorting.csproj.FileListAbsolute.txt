@@ -1,0 +1,7 @@
+E:\GitHubProject\CSharpTutorial\几种常见排序的算法\Sorting\Sorting\bin\Debug\Sorting.exe.config
+E:\GitHubProject\CSharpTutorial\几种常见排序的算法\Sorting\bin\Debug\Sorting.exe.config
+E:\GitHubProject\CSharpTutorial\几种常见排序的算法\Sorting\bin\Debug\Sorting.exe
+E:\GitHubProject\CSharpTutorial\几种常见排序的算法\Sorting\bin\Debug\Sorting.pdb
+E:\GitHubProject\CSharpTutorial\几种常见排序的算法\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+E:\GitHubProject\CSharpTutorial\几种常见排序的算法\Sorting\obj\Debug\Sorting.exe
+E:\GitHubProject\CSharpTutorial\几种常见排序的算法\Sorting\obj\Debug\Sorting.pdb
